@@ -9,3 +9,9 @@ Kishan has previously worked with companies like Amazon, Citrix and MobileIron, 
 Furthermore, Kishan has three years of experience at Google, where he developed test infrastructure for Google Kubernetes and cloud technologies. He also worked on automation solutions for contact center and ticket platforms. Currently, he is embarking on a journey to obtain Google Cybersecurity certification to stay updated on cybersecurity trends.
 
 Kishan is deeply passionate about his work, always seeking new learning opportunities, especially in the realms of Mobile/Cloud technology. He welcomes connections with former friends, colleagues, and creative individuals.
+
+## Training done through Coursera courses:
+
+### Security Audit
+Security Audit controls and compliance checklist can be found at [Google docs](https://docs.google.com/document/d/1g1Eia7vvxysVITKHXUB777d-2zen3GdizR-rmB1aRQU/edit) based on Scenario and other details described at [securityAssessment.md](./securityAssessment.md)
+
