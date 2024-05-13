@@ -16,4 +16,6 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 * Botium toys: [Scope, goals and risk assessment report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)
 * [Control categories](https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview)
-* 
+
+## Controls and Compliance checklist
+I have generated Controls and Compliance checklist based on scenarios given along with the recommendations to fix. Details can be check at Google docs [link](https://docs.google.com/document/d/1g1Eia7vvxysVITKHXUB777d-2zen3GdizR-rmB1aRQU/edit).
